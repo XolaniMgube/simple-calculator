@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/XolaniMgube/simple-calculator/issues"
   },
-  "homepage": "https://github.com/XolaniMgube/simple-calculator#readme"
+  "homepage": "https://github.com/XolaniMgube/simple-calculator#readme",
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  }
 }
